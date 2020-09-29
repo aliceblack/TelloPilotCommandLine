@@ -11,21 +11,21 @@ node index
 ```
 
 ## Keyboard
-O enter SDK mode  📡
-P takeoff  ✈️
-H land  ⚠️
+O enter SDK mode  📡  
+P takeoff  ✈️  
+H land  ⚠️  
 
-W front  🔺
-A counter clockwise  ↪️
-S back  🔻
-D clockwise  ↩️
+W front  🔺  
+A counter clockwise  ↪️  
+S back  🔻  
+D clockwise  ↩️  
   
-I flip front ➰
-J flip left  ➰
-K flip back  ➰
-L flip right ➰
+I flip front ➰  
+J flip left  ➰  
+K flip back  ➰  
+L flip right ➰  
 
-Arrow Up - up  ⏫
-Arrow Down - down  ⏬
-Arrow Left - left  👈
-Arrow Right - right  👉
+Arrow Up - up  ⏫  
+Arrow Down - down  ⏬  
+Arrow Left - left  👈  
+Arrow Right - right  👉  
